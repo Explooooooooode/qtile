@@ -1,3 +1,7 @@
+This repository contains my personal configuration of qtile. It's small now, but may grow in the future; though it mostly serves as a way to migrate my qtile configuration more easily.
+
+Below is the original README.
+
 |logo|
 
 **A full-featured, hackable tiling window manager written and configured in Python**
